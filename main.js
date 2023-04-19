@@ -15,11 +15,12 @@ poseNet.on('pose', gotPoses);
 }
 
 function gotPoses(){}
+
 function modelLoaded() {
 
     console.log('PoseNet is initialized');
     
-    }
+ }
     
 
 
